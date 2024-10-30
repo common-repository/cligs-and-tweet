@@ -1,0 +1,107 @@
+
+/* Cli.gs and Tweet */
+
+/* Cli.gs link contianer */
+.cltw_container {
+	text-align: right;
+}
+
+/* Cli.gs link icon */
+.cltw_container img {
+	border: 0;
+	padding: 0 5px;
+	margin: 0;
+}
+
+/* Cli.gs url form */
+.cltw_container form {
+	text-align: right;
+}
+
+/* Cli.gs url form input */
+.cltw_container form input {
+	font-size: 10px;
+	width: 100px;
+}
+
+/* Admin panel */
+#cltw_admin_panel {
+	float: left;
+}
+
+/* Admin panel explanations */
+.cltw_admin_hint {
+	margin: 0 0 0 10px;
+}
+
+/* Error messages */
+.cltw_notice {
+	background-color: #fffbcc;
+}
+
+/* Error messages */
+.cltw_notice p {
+	font-weight: bold;
+}
+
+/* Informational message */
+.cltw_message {
+	background-color: #fffbcc;
+}
+
+/* Resources info panel */
+#cltw_resources_panel {
+	float: right;
+	padding: 10px;
+	width: 180px;
+	margin-top: 30px;
+	border: 1px solid #CCCCCC;
+	background-color: #FFFEEB;
+}
+
+/* Message legend table */
+#cltw_legend {
+	border-width: 0px;
+	border-spacing: 0px;
+	border-collapse: collapse;
+	margin: 0px;
+}
+
+/* Message legend column */
+#cltw_legend th, #cltw_legend td {
+	border-width: opx;
+	padding: 0 5px;
+	font-size: 10px;
+}
+
+/* Create table */
+
+#cltw_create table {
+	border-width: 1px;
+	border-spacing: 0px;
+	border-style: solid;
+	border-color: gray;
+	border-collapse: collapse;
+	margin: 10px 0;
+}
+
+#cltw_create table th, #cltw_create td {
+	border-width: 1px;
+	padding: 2px;
+	border-style: inset;
+	border-color: gray;
+}
+
+/* Exclude checkbox submit panel */
+#cltw_post_submit {
+	margin: 5px;
+}
+
+#cltw_post_submit input {
+	min-width: 0;
+	text-align: left;
+	margin:0 5px 0 0;
+}
+
+#cltw_post_submit span {
+}

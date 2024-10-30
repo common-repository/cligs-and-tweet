@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/cligs-and-tweet\n"
+"POT-Creation-Date: 2009-08-13 19:30+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marcel Bokhorst\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+
+#: wp-cligs-and-tweet-class.php:221
+msgid "Do not create short URL"
+msgstr "Keine Kurz-URL erzeugen"
+
+#: wp-cligs-and-tweet-class.php:332
+#: wp-cligs-and-tweet-class.php:333
+#: wp-cligs-and-tweet-class.php:342
+#: wp-cligs-and-tweet-class.php:343
+msgid "Cli.gs and Tweet"
+msgstr "Cli.gs and Tweet"
+
+#: wp-cligs-and-tweet-class.php:367
+msgid "Settings Saved"
+msgstr "Einstellungen gespeichert."
+
+#: wp-cligs-and-tweet-class.php:376
+#: wp-cligs-and-tweet-class.php:512
+msgid "Cli.gs and Tweet Settings"
+msgstr "Cli.gs and Tweet Einstellungen"
+
+#: wp-cligs-and-tweet-class.php:382
+msgid "Twitter user name:"
+msgstr "Twitter Benutzername:"
+
+#: wp-cligs-and-tweet-class.php:385
+msgid "Twitter password:"
+msgstr "Twitter Passwort:"
+
+#: wp-cligs-and-tweet-class.php:387
+msgid "Will be stored and sent in clear text"
+msgstr "Wird im klartext gespeichert und versendet."
+
+#: wp-cligs-and-tweet-class.php:389
+msgid "Twitter hashtag:"
+msgstr "Twitter hashtag:"
+
+#: wp-cligs-and-tweet-class.php:391
+#: wp-cligs-and-tweet-class.php:532
+msgid "Details"
+msgstr "Details"
+
+#: wp-cligs-and-tweet-class.php:393
+msgid "Twitter message:"
+msgstr "Twitter Nachricht:"
+
+#: wp-cligs-and-tweet-class.php:398
+msgid "The set Twitter hashtag"
+msgstr ""
+
+#: wp-cligs-and-tweet-class.php:399
+msgid "The post title"
+msgstr "Nachrichtentitel"
+
+#: wp-cligs-and-tweet-class.php:400
+msgid "The blog title"
+msgstr "Blogname"
+
+#: wp-cligs-and-tweet-class.php:401
+msgid "The Clig.s short url"
+msgstr "Die Clig.s Kurz-URL"
+
+#: wp-cligs-and-tweet-class.php:405
+#: wp-cligs-and-tweet-class.php:569
+msgid "Save"
+msgstr "Speichern"
+
+#: wp-cligs-and-tweet-class.php:408
+msgid "Create URLs for existing posts/pages"
+msgstr "URL's für bereits existierende posts und Seiten erstellen"
+
+#: wp-cligs-and-tweet-class.php:419
+msgid "Create"
+msgstr "erstellen"
+
+#: wp-cligs-and-tweet-class.php:468
+msgid "URL(s) created"
+msgstr "URL(s) erstellt"
+
+#: wp-cligs-and-tweet-class.php:468
+msgid "error(s)"
+msgstr "Fehler"
+
+#: wp-cligs-and-tweet-class.php:518
+msgid "Create short URLs for posts:"
+msgstr "Kurz-URL für Nachrichten erstellen:"
+
+#: wp-cligs-and-tweet-class.php:521
+msgid "Create short URLs for pages:"
+msgstr "Kurz-Urls für Seiten erstellen:"
+
+#: wp-cligs-and-tweet-class.php:524
+msgid "Send tweet for posts:"
+msgstr "Tweet für Nachrichten versenden:"
+
+#: wp-cligs-and-tweet-class.php:527
+msgid "Send tweet for pages:"
+msgstr "Tweet für Seiten versenden:"
+
+#: wp-cligs-and-tweet-class.php:530
+msgid "Short URL auto-discovery:"
+msgstr "automatische Kurz-Url suche:"
+
+#: wp-cligs-and-tweet-class.php:534
+msgid "Display short URLs on frontpage:"
+msgstr "Anzeigen von Kurz-URLs auf der Startseite:"
+
+#: wp-cligs-and-tweet-class.php:537
+msgid "Add short URL before post:"
+msgstr "Kurz-URL vor der Nachricht einfügen"
+
+#: wp-cligs-and-tweet-class.php:540
+msgid "Add short URL after post:"
+msgstr "Kurz-Url nach der Nachricht einfügen:"
+
+#: wp-cligs-and-tweet-class.php:543
+msgid "Show icon:"
+msgstr "Icon anzeigen:"
+
+#: wp-cligs-and-tweet-class.php:546
+msgid "Text before icon:"
+msgstr "Text vor dem Icon:"
+
+#: wp-cligs-and-tweet-class.php:549
+msgid "Text after icon:"
+msgstr "Text nach dem Icon:"
+
+#: wp-cligs-and-tweet-class.php:552
+msgid "Request time-out:"
+msgstr "Zeitüberschreitung für die Anfrage"
+
+#: wp-cligs-and-tweet-class.php:554
+msgid "Seconds"
+msgstr "Sekunden"
+
+#: wp-cligs-and-tweet-class.php:556
+msgid "Delete options on deactivate:"
+msgstr "Entfernen der Einstellungen beim deaktivieren:"
+
+#: wp-cligs-and-tweet-class.php:558
+msgid "These and the tool settings"
+msgstr "Diese und die Tool-Einstellungen"
+
+#: wp-cligs-and-tweet-class.php:560
+msgid "Delete data on deactivate:"
+msgstr "Löschen der Daten beim deaktieren:"
+
+#: wp-cligs-and-tweet-class.php:562
+msgid "Custom fields related to this plugin"
+msgstr "Benutzerdefinierte Felder für dieses Plugin"
+
+#: wp-cligs-and-tweet-class.php:580
+msgid "Resources"
+msgstr "Ressourcen"
+
+#: wp-cligs-and-tweet-class.php:584
+msgid "Short URL Auto-Discovery"
+msgstr "Automatische Kurz-URL-Suche"
+
+#: wp-cligs-and-tweet-class.php:585
+msgid "Usage instructions"
+msgstr "Bedienungsanleitung"
+
+#: wp-cligs-and-tweet-class.php:586
+msgid "Frequently asked questions"
+msgstr "FAQ"
+
+#: wp-cligs-and-tweet-class.php:587
+msgid "Support page"
+msgstr "Support Webseite"
+
+#: wp-cligs-and-tweet-class.php:588
+msgid "About the author"
+msgstr "Über den Author"
+

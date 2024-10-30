@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ariagle\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/cligs-and-tweet\n"
+"POT-Creation-Date: 2009-08-16 07:20+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marcel Bokhorst\n"
+"Language-Team: Ariagle\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+
+#: wp-cligs-and-tweet-class.php:221
+msgid "Do not create short URL"
+msgstr "不生成缩短网址"
+
+#: wp-cligs-and-tweet-class.php:332
+#: wp-cligs-and-tweet-class.php:333
+#: wp-cligs-and-tweet-class.php:342
+#: wp-cligs-and-tweet-class.php:343
+msgid "Cli.gs and Tweet"
+msgstr "Cli.gs和Tweet"
+
+#: wp-cligs-and-tweet-class.php:367
+msgid "Settings Saved"
+msgstr "保存设定"
+
+#: wp-cligs-and-tweet-class.php:376
+#: wp-cligs-and-tweet-class.php:512
+msgid "Cli.gs and Tweet Settings"
+msgstr "Cli.gs和Tweet设定"
+
+#: wp-cligs-and-tweet-class.php:382
+msgid "Twitter user name:"
+msgstr "Twitter用户名："
+
+#: wp-cligs-and-tweet-class.php:385
+msgid "Twitter password:"
+msgstr "Twitter密码："
+
+#: wp-cligs-and-tweet-class.php:387
+msgid "Will be stored and sent in clear text"
+msgstr "会被保存并发送简洁文字"
+
+#: wp-cligs-and-tweet-class.php:389
+msgid "Twitter hashtag:"
+msgstr "Twitter标签"
+
+#: wp-cligs-and-tweet-class.php:391
+#: wp-cligs-and-tweet-class.php:532
+msgid "Details"
+msgstr "详细"
+
+#: wp-cligs-and-tweet-class.php:393
+msgid "Twitter message:"
+msgstr "Twitter信息："
+
+#: wp-cligs-and-tweet-class.php:398
+msgid "The set Twitter hashtag"
+msgstr "Twitter的标签"
+
+#: wp-cligs-and-tweet-class.php:399
+msgid "The post title"
+msgstr "日志的标题"
+
+#: wp-cligs-and-tweet-class.php:400
+msgid "The blog title"
+msgstr "博客的标题"
+
+#: wp-cligs-and-tweet-class.php:401
+msgid "The Clig.s short url"
+msgstr "Cli.gs的缩短网址"
+
+#: wp-cligs-and-tweet-class.php:405
+#: wp-cligs-and-tweet-class.php:569
+msgid "Save"
+msgstr "保存"
+
+#: wp-cligs-and-tweet-class.php:408
+msgid "Create URLs for existing posts/pages"
+msgstr "为已有的日志/页面生成URL"
+
+#: wp-cligs-and-tweet-class.php:419
+msgid "Create"
+msgstr "生成"
+
+#: wp-cligs-and-tweet-class.php:468
+msgid "URL(s) created"
+msgstr "URL已生成"
+
+#: wp-cligs-and-tweet-class.php:468
+msgid "error(s)"
+msgstr "错误"
+
+#: wp-cligs-and-tweet-class.php:518
+msgid "Create short URLs for posts:"
+msgstr "为日志生成缩短网址："
+
+#: wp-cligs-and-tweet-class.php:521
+msgid "Create short URLs for pages:"
+msgstr "为页面生成缩短网址："
+
+#: wp-cligs-and-tweet-class.php:524
+msgid "Send tweet for posts:"
+msgstr "为日志发送tweet："
+
+#: wp-cligs-and-tweet-class.php:527
+msgid "Send tweet for pages:"
+msgstr "为页面发送tweet："
+
+#: wp-cligs-and-tweet-class.php:530
+msgid "Short URL auto-discovery:"
+msgstr "自动发现缩短网址："
+
+#: wp-cligs-and-tweet-class.php:534
+msgid "Display short URLs on frontpage:"
+msgstr "在首页显示缩短网址："
+
+#: wp-cligs-and-tweet-class.php:537
+msgid "Add short URL before post:"
+msgstr "在日志前加上缩短网址："
+
+#: wp-cligs-and-tweet-class.php:540
+msgid "Add short URL after post:"
+msgstr "在日志后加上缩短网址："
+
+#: wp-cligs-and-tweet-class.php:543
+msgid "Show icon:"
+msgstr "显示图标："
+
+#: wp-cligs-and-tweet-class.php:546
+msgid "Text before icon:"
+msgstr "图片前文字："
+
+#: wp-cligs-and-tweet-class.php:549
+msgid "Text after icon:"
+msgstr "图标后文字："
+
+#: wp-cligs-and-tweet-class.php:552
+msgid "Request time-out:"
+msgstr "限定超时时间："
+
+#: wp-cligs-and-tweet-class.php:554
+msgid "Seconds"
+msgstr "秒"
+
+#: wp-cligs-and-tweet-class.php:556
+msgid "Delete options on deactivate:"
+msgstr "在停用时删除选项："
+
+#: wp-cligs-and-tweet-class.php:558
+msgid "These and the tool settings"
+msgstr "这里和工具里的设定"
+
+#: wp-cligs-and-tweet-class.php:560
+msgid "Delete data on deactivate:"
+msgstr "在停用时删除数据："
+
+#: wp-cligs-and-tweet-class.php:562
+msgid "Custom fields related to this plugin"
+msgstr "有关此插件的自定义域"
+
+#: wp-cligs-and-tweet-class.php:580
+msgid "Resources"
+msgstr "资源"
+
+#: wp-cligs-and-tweet-class.php:584
+msgid "Short URL Auto-Discovery"
+msgstr "自动发现缩短网址"
+
+#: wp-cligs-and-tweet-class.php:585
+msgid "Usage instructions"
+msgstr "使用说明"
+
+#: wp-cligs-and-tweet-class.php:586
+msgid "Frequently asked questions"
+msgstr "常见问题"
+
+#: wp-cligs-and-tweet-class.php:587
+msgid "Support page"
+msgstr "支持页面"
+
+#: wp-cligs-and-tweet-class.php:588
+msgid "About the author"
+msgstr "关于作者"
+
